@@ -11,7 +11,7 @@ EoPassbookBundle integrates the [php-passbook](http://eymengunay.github.io/php-p
 **Note**: See php-passbook documentation for more information on obtaining your p12 and wwdr certificates.
 
 ## Prerequisites
-This version of the bundle requires Symfony 2.1+
+This version of the bundle requires Symfony 2.1+ or 3.0 or 4.0
 
 ## Installation
 
