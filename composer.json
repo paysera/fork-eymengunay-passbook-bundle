@@ -1,5 +1,5 @@
 {
-    "name":        "eo/passbook-bundle",
+    "name":        "paysera/fork-eymengunay-passbook-bundle",
     "type":        "symfony-bundle",
     "description": "iOS Passbook for Symfony",
     "keywords":    ["passbook", "ios", "pass", "mobile", "wallet", "coupons", "tickets"],
